@@ -215,7 +215,7 @@ display: block;
  }
  .img-container1,.img-container2,.img-container3{
   
-  background-image: linear-gradient(rgba(0,0,0,0,85),rgba(0,0,0,0,85)),url(/Users/OCTAVE/Desktop/paccy/picture/pic1.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0,85),rgba(0,0,0,0,85)),url(./Users/OCTAVE/Desktop/paccy/picture/pic1.jpeg);
   background: cover;
   background-position: center;}
 
